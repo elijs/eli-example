@@ -1,0 +1,16 @@
+{
+    "db": {
+        "host": "0.0.0.0",
+        "port": "6379",
+        "options": {
+            "detect_buffers": true
+        }
+    },
+    "plugins": [
+        "eli-plugin-store",
+        "eli-plugin-static"
+    ],
+    "static": {
+        "dir": "public"
+    }
+}

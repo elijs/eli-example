@@ -1,0 +1,8 @@
+{
+    "name": "eli-example",
+    "version": "0.2.0",
+    "dependencies": {
+        "eli-plugin-static": "~0.1.0",
+        "eli-plugin-store": "~0.1.0"
+    }
+}
